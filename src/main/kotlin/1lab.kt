@@ -9,7 +9,7 @@ fun main() {
     val firstMatch = FootballMatch(0,0)
 
     firstMatch.setFirstTeamScore(3)
-
+    firstMatch.setSecondTeamScore(5)
     firstMatch.setGeneralScore(5,5)
     testList.add(firstMatch)
 
